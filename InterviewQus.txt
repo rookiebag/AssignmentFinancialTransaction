@@ -1,0 +1,11 @@
+1 := Why is an anemic model better than a rich one?
+A := Anemic model are like entities represent database table and all logic related queries 
+    goes to repository other side rich model contains all logic and is fatty.
+
+2 := Where is business logic in MCV pattern
+A := The business logic should be placed in the model.
+
+3 := Which is better high cohesion/low coupling or low cohesion/ high coupling?
+A := High cohesion/Low coupling is better because less interaction amoung modues is good and module 
+    contain element belong together.
+
